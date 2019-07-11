@@ -1,5 +1,6 @@
 # Responsive Features Code-Along
 
+
 ## Overview
 
 In this code along exercise we will make our layout responsive using CSS media
